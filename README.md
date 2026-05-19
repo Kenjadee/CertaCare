@@ -2,11 +2,11 @@
 
 ## What is CertaCare?
 
-CertaCare is a machine learning–based clinical triage decision support system that predicts patient urgency levels (GREEN, YELLOW, RED) using vital signs and basic patient information. It is designed to assist healthcare workers in fast-paced or low-resource environments by providing real-time triage recommendations with confidence scores and probability breakdowns.
+Certa care is an ml- based clinical triage decision making system that support  Ngo field workers in making decisions . It also puts in place measures to ensure medical security by adding confidence scores meaning it states clearly how confident it is of the answer it’s giving .
 
 ## Problem it Solves
 
-In many remote clinics and emergency settings, healthcare workers must make quick decisions with limited resources and high patient volume. Manual triage can be inconsistent due to fatigue, experience differences, and workload pressure. CertaCare helps standardize this process by providing data-driven support for prioritizing patients who need urgent care.
+In a classic NGO field work space there is often a large number of patients to attend to with limited number of health care professionals . Certa care helps assist the decision making process on which case should be escalated. Making work flow faster and easier .
 
 
 ## Dataset
